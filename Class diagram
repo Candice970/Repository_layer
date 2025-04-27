@@ -1,0 +1,8 @@
+### Class Diagram (Text version)
+- Repository<T, ID>
+  - ProductRepository
+    - InMemoryProductRepository
+    - DatabaseProductRepository (stub)
+  - CategoryRepository
+    - InMemoryCategoryRepository (future)
+  - etc.
